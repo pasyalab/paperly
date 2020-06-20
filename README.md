@@ -1,0 +1,2 @@
+# paperly
+OJS theme
